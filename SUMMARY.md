@@ -11,3 +11,6 @@ JSDC 2014, JavaScript Developer Conference 2014 所有資料回顧
 * [node-ffi, 用 node 使用 c/c++ lib - othree](section/chapter_6.md)
 * [Koa - Asynchronous Decorators as Middleware - Jonathan](section/chapter_7.md)
 * [GitHub 大冒險 - Muan](section/chapter_8.md)
+* [不被重視的 HTML: Accessibility - Hsiaoming Yang(lepture)](section/chapter_9.md)
+* [Micro Databases - substack(James Halliday)](section/chapter_10.md)
+* [Use Node Modules In The Browser With Browserify - maxwell ogden](section/chapter_11.md)
