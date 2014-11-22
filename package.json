@@ -1,0 +1,20 @@
+{
+  "name": "jsdc2014-review",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gitbook serve -o ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsdc-core/jsdc2014-review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsdc-core/jsdc2014-review/issues"
+  },
+  "homepage": "https://github.com/jsdc-core/jsdc2014-review"
+}
