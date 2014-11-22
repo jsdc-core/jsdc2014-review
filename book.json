@@ -1,0 +1,49 @@
+{
+    // Folders to use for output
+    // Caution: it overrides the value from the command line
+    // It's not advised this option in the book.json
+    "output": "./",
+        // Links in template (null: default, false: remove, string: new value)
+        // Generator to use for building
+    // Caution: it overrides the value from the command line
+    // It's not advised this option in the book.json
+    "generator": "site",
+
+    // Book title and description (defaults are extracted from the README)
+    "title": null,
+    "description": null,
+
+    // For ebook format, the extension to use for generation (default is detected from output extension)
+    // "epub", "pdf", "mobi"
+    // Caution: it overrides the value from the command line
+    // It's not advised this option in the book.json
+    "extension": null,
+
+    // Plugins list, can contain "-name" for removing default plugins
+    "plugins": [],
+
+    // Global configuration for plugins
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "sepia", "night" or "white",
+            "family": "serif" or "sans",
+            "size": 1 to 4
+        }
+    },
+
+    "links": {
+        // Custom links at top of sidebar
+        "sidebar": {
+            "Custom link name": "https://customlink.com"
+        },
+
+        // Sharing links
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+}
