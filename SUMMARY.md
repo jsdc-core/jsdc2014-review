@@ -8,3 +8,6 @@ JSDC 2014, JavaScript Developer Conference 2014 所有資料回顧
 * [Oops! I Shrink My Web Server - Ben Lue](section/chapter_3.md)
 * [Functional JavaScript, why or why not? - Greg Weng](section/chapter_4.md)
 * [Feature-oriented Programming with JavaScript - Fred Chien](section/chapter_5.md)
+* [node-ffi, 用 node 使用 c/c++ lib - othree](section/chapter_6.md)
+* [Koa - Asynchronous Decorators as Middleware - Jonathan](section/chapter_7.md)
+* [GitHub 大冒險 - Muan](section/chapter_8.md)
